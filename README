@@ -1,0 +1,10 @@
+# Unity Editor Measuring Tool
+
+Simple ruler tool to measure distances in the UnityEditor.
+
+## Installation & usage
+
+Simply clone the repository in a folder of your UnityProject.
+
+You can then go to "Window" > "Measures" to open the tool window.
+You can finally click on the new "ruler" button that appeared in SceneView and select the extremities of your measures.
